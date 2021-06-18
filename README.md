@@ -1,2 +1,1 @@
-# priml2021.github.io
-This is the website repository for the 2021 PriML workshop at NeurIPS.
+This is the website repository for the 2021 Privacy in Machine Learning (PiML) workshop at NeurIPS.

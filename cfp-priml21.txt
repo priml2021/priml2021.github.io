@@ -1,0 +1,42 @@
+Call for papers: Privacy in Machine Learning -- NeurIPS 2021 Workshop
+Vancouver, December 14, 2019
+Website: https://priml2021.github.io/priml2021/
+
+# Description
+
+This one day workshop focuses on privacy preserving techniques for training, inference, and disclosure in large scale data analysis, both in the distributed and centralized settings. There is growing interest from the Machine Learning (ML) community in leveraging cryptographic techniques such as Multi-Party Computation (MPC) and Homomorphic Encryption (HE) for privacy preserving training and inference, as well as Differential Privacy (DP) for disclosure. Simultaneously, the systems security and cryptography community has proposed various secure frameworks for ML. We encourage both theory and application-oriented submissions exploring a range of approaches, including:
+
+- Differential privacy: theory, applications, and implementations
+- Privacy-preserving machine learning
+- Trade-offs between privacy and utility
+- Programming languages for privacy-preserving data analysis
+- Statistical and information-theoretic notions of privacy
+- Empirical and theoretical comparisons between different notions of privacy
+- Privacy attacks
+- Policy-making aspects of data privacy
+- Secure multi-party computation techniques for machine learning
+- Learning on encrypted data, homomorphic encryption
+- Distributed privacy-preserving algorithms
+- Privacy in autonomous systems
+- Online social networks privacy
+- Interplay between privacy and adversarial robustness in machine learning
+- Relations between privacy, fairness and transparency
+
+# Submission instructions
+
+Submissions in the form of extended abstracts must be at most 4 pages long (not including references; additional supplementary material may be submitted but may be ignored by reviewers), non-anonymized and adhere to the NeurIPS format. We do accept submissions of work recently published or currently under review. The workshop will not have formal proceedings, but authors of accepted abstracts can choose to have a link to arxiv or a pdf published on the workshop webpage.
+
+- Submission url: https://easychair.org/conferences/?conf=priml2019
+- Submission deadline: September 9th (11:59pm UTC)
+- Notification of acceptance: October 1st, 2019
+
+# Organizers
+
+- Borja Balle (Amazon)
+- Kamalika Chaudhuri (UCSD)
+- Antti Honkela (University of Helsinki)
+- Antti Koskela (University of Helsinki)
+- Casey Meehan (UCSD)
+- Mijung Park (Max Planck Institute for Intelligent Systems)
+- Mary Anne Smart  (UCSD)
+- Adrian Weller (Alan Turing Institute & Cambridge)
