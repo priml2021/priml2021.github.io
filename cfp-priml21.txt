@@ -1,42 +1,51 @@
-Call for papers: Privacy in Machine Learning -- NeurIPS 2021 Workshop
-Vancouver, December 14, 2019
-Website: https://priml2021.github.io/priml2021/
+Call for papers: Privacy in Machine Learning (PriML) 2021
+Virtual workshop: Tuesday, December 14, 2021
+Website: https://priml2021.github.io/
 
 # Description
 
-This one day workshop focuses on privacy preserving techniques for training, inference, and disclosure in large scale data analysis, both in the distributed and centralized settings. There is growing interest from the Machine Learning (ML) community in leveraging cryptographic techniques such as Multi-Party Computation (MPC) and Homomorphic Encryption (HE) for privacy preserving training and inference, as well as Differential Privacy (DP) for disclosure. Simultaneously, the systems security and cryptography community has proposed various secure frameworks for ML. We encourage both theory and application-oriented submissions exploring a range of approaches, including:
+This one-day workshop focuses on privacy-preserving machine learning techniques for large-scale data analysis, both in the distributed and centralized settings, and on scenarios that highlight the importance and need for these techniques (e.g., via privacy attacks). There is growing interest from the Machine Learning (ML) community in leveraging cryptographic techniques such as Multi-Party Computation (MPC) and Homomorphic Encryption (HE) for secure computation during training and inference, as well as Differential Privacy (DP) for limiting the privacy risks from the trained model itself. We encourage both theory and application-oriented submissions exploring a range of approaches listed below. 
 
-- Differential privacy: theory, applications, and implementations
-- Privacy-preserving machine learning
-- Trade-offs between privacy and utility
-- Programming languages for privacy-preserving data analysis
-- Statistical and information-theoretic notions of privacy
-- Empirical and theoretical comparisons between different notions of privacy
-- Privacy attacks
-- Policy-making aspects of data privacy
-- Secure multi-party computation techniques for machine learning
-- Learning on encrypted data, homomorphic encryption
-- Distributed privacy-preserving algorithms
-- Privacy in autonomous systems
-- Online social networks privacy
-- Interplay between privacy and adversarial robustness in machine learning
-- Relations between privacy, fairness and transparency
+Privacy-preserving machine learning
+Differential privacy: theory, applications, and implementations
+Statistical and information-theoretic notions of privacy, including DP relaxations
+Empirical and theoretical comparisons between different notions of privacy
+Privacy-preserving data sharing, anonymization, and privacy of synthetic data
+Privacy attacks
+Federated and decentralized privacy-preserving algorithms
+Policy-making aspects of data privacy
+Secure multi-party computation techniques for machine learning
+Learning on encrypted data, homomorphic encryption
+Privacy in autonomous systems
+Online social networks privacy
+Privacy and private learning in computer vision and natural language processing tasks
+Programming languages for privacy-preserving data analysis
+Relations of privacy with fairness, transparency, and adversarial robustness
+Machine unlearning and data-deletion
 
 # Submission instructions
 
-Submissions in the form of extended abstracts must be at most 4 pages long (not including references; additional supplementary material may be submitted but may be ignored by reviewers), non-anonymized and adhere to the NeurIPS format. We do accept submissions of work recently published or currently under review. The workshop will not have formal proceedings, but authors of accepted abstracts can choose to have a link to arxiv or a pdf published on the workshop webpage.
+Submissions in the form of extended abstracts must be at most 4 pages long (not including references; additional supplementary material may be submitted but may be ignored by reviewers), non-anonymized, and adhere to the NeurIPS format. We encourage the submission of work that is new to the privacy-preserving machine learning community. Submissions solely based on work that has been previously published in conferences on machine learning and related fields are not suitable for the workshop. On the other hand, we allow submission of works currently under submission and relevant works recently previously published in privacy and security venues. Submission of work under review at NeurIPS 2021 is allowed but this must be disclosed at submission time. Submissions accepted to the NeurIPS main conference may be deprioritized in selecting oral presentations. The workshop will not have formal proceedings, but authors of accepted abstracts can choose to have a link to arxiv or a pdf added on the workshop webpage.
 
-- Submission url: https://easychair.org/conferences/?conf=priml2019
-- Submission deadline: September 9th (11:59pm UTC)
-- Notification of acceptance: October 1st, 2019
+- Submission URL: https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/PRIML
+- Submission deadline: September 16, 2021
+- Notification of acceptance: October 15, 2021
+- Video and slides submission deadline (for accepted papers): November 1, 2021
 
 # Organizers
 
-- Borja Balle (Amazon)
-- Kamalika Chaudhuri (UCSD)
-- Antti Honkela (University of Helsinki)
-- Antti Koskela (University of Helsinki)
-- Casey Meehan (UCSD)
-- Mijung Park (Max Planck Institute for Intelligent Systems)
-- Mary Anne Smart  (UCSD)
-- Adrian Weller (Alan Turing Institute & Cambridge)
+Borja Balle (DeepMind)
+Giovanni Cherubin (Alan Turing Institute)
+Kamalika Chaudhuri (UC San Diego and Facebook AI Research)
+Antti Honkela (University of Helsinki)
+Jonathan Lebensold (Mila and McGill University)
+Casey Meehan (UC San Diego)
+Mijung Park (University of British Columbia)
+Yu-Xiang Wang (UC Santa Barbara)
+Adrian Weller (Alan Turing Institute & Cambridge University)
+Yuqing Zhu (UC Santa Barbara)
+
+
+-------
+
+
