@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property="og:image" content="https://priml2021.github.io/img/preview-image.png" />
+    <meta property="og:image:alt" content="Privacy in Machine Learning (PriML) NeurIPS 2021 Workshop" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="Privacy in Machine Learning (NeurIPS 2021 Workshop)" />
+    <meta name="twitter:image" content="https://priml-workshop.github.io/img/twitter-img.png" />
+    <meta name="twitter:image:alt" content="PriML Workshop" />
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Privacy in Machine Learning (NeurIPS 2021 Workshop)</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <link href="css/style.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-custom navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                    Menu <i class="fa fa-bars"></i>
+                </button>
+                <a class="navbar-brand page-scroll" href="#page-top">
+                    <span class="light">P<span style="text-transform:lowercase">ri</span>ML'21</span>
+                </a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+                <ul class="nav navbar-nav">
+                    <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#about">Scope</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#dates">CFP &amp Dates</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#speakers">Invited Speakers</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#schedule">Schedule</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#papers">Accepted Papers</a>
+                    </li>
+                    <!-- <li>
+                        <a class="page-scroll" href="#grants">Travel Grants</a>
+                    </li> -->
+                    <li>
+                        <a class="page-scroll" href="#organizers">Organizers</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#access">Accessibility</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Intro Header -->
+    <header class="intro">
+        <div class="intro-body">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2">
+                        <h1 class="brand-heading">Privacy in Machine Learning</h1>
+                        <p class="intro-text">
+                            <a href="https://neurips.cc/" style="color:white">NeurIPS 2021</a> Workshop
+                            <br />Virtual
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- About Section -->
+    <section id="about" class="container content-section text-center">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2>Scope</h2>
+                <p>The goal of our workshop is to bring together privacy experts working in academia and
+                    industry to discuss the present and the future of privacy-aware technologies powered by
+                    machine learning. The workshop will focus on the technical aspects of privacy research and
+                    deployment with invited and contributed talks by distinguished researchers in the area.
+                    We encourage submissions exploring a broad range of research areas related to data privacy,
+                    including but not limited to:</p>
+                <ul class="list-group">
+                    <li class="list-group-item speaker">Differential privacy: theory, applications, and implementations
+                    </li>
+                    <li class="list-group-item speaker">Secure multi-party computation techniques for machine learning</li>
+                    <li class="list-group-item speaker">Learning on encrypted data, homomorphic encryption</li>
+                    <li class="list-group-item speaker">Hardware-based approaches to privacy-preserving ML   </li>
+                    <li class="list-group-item speaker">Trade-offs between privacy and utility</li>
+                    <li class="list-group-item speaker">Privacy attacks</li>
+                    <li class="list-group-item speaker">Federated and decentralized privacy-preserving algorithms </li>
+                    <li class="list-group-item speaker">Programming languages for privacy-preserving data analysis</li>
+                    <li class="list-group-item speaker">Empirical and theoretical comparisons between different notions
+                        of privacy</li>
+                    <li class="list-group-item speaker">Policy-making aspects of data privacy</li>
+                    <li class="list-group-item speaker">Privacy in autonomous systems</li>
+                    <li class="list-group-item speaker">Online social networks privacy</li>
+                    <li class="list-group-item speaker">Interplay between privacy and adversarial robustness in machine
+                        learning</li>
+                    <li class="list-group-item speaker">Relations between privacy, fairness and transparency</li>
+                    <li class="list-group-item speaker">Machine unlearning and data-deletion</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <!-- CFP & Dates Section -->
+    <section id="dates" class="container content-section text-center">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2>Call For Papers &amp; Important Dates</h2>
+                <a href="cfp-priml19.txt" class="btn btn-default btn-lg">Download Full CFP</a>
+                <br />
+                <br />
+                <br />
+                <p>
+                    <b>Submission deadline</b>: TBD
+                    <br /><b>Notification of acceptance</b>: TBD
+                    <br /><b>Workshop</b>: TBD
+                </p>
+                <!-- <a href="https://easychair.org/conferences/?conf=priml2019" class="btn btn-default btn-lg">Submit Your Abstract</a> -->
+                <br />
+                <br />
+                <br />
+            </div>
+        </div>
+    </section>
+
+    <!-- Speakers Section -->
+    <section id="speakers" class="container content-section text-center">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2>Invited Speakers</h2>
+                <ul class="list-group">
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <!-- Schedule Section -->
+    <section id="schedule" class="container content-section text-center">
+        <div class="row">
+            <div class="col-sm-8 col-sm-offset-2">
+                <h2>Schedule</h2>
+                <table class="table schedule">
+                    <tbody>
+                        <tr>
+                            <td class="time">8:10</td>
+                            <td class="slot">Opening</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </section>
+
+    <!-- Accepted Papers -->
+
+    <section id="papers" class="container content-section text-center">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2>Accepted Papers</h2>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- Call for travel grants -->
+    <!--
+        <section id="grants" class="container content-section text-center">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <h2>Travel Grants</h2>
+                    <p>
+                    Thanks to our generous sponsors, we are able to provide a limited number of travel grants of up to $800 to help partially cover the expenses of authors of accepted papers who have not received other travel support from NeurIPS this year.
+                    To apply, please send an email to <a href="mailto:ppml18@easychair.org?Subject=PPML18%20Travel%20Grant%20Application">ppml18@easychair.org</a> with the subject “PPML18 Travel Grant Application” including your resume and a half-page statement of purpose mentioning the title and the authors of your accepted paper and a summary of anticipated travel expenses. If you are an undergraduate or graduate student, we ask for a half-page recommendation letter supporting your application to be sent to us by the deadline. The deadline for applications is <b>November 11, 2018 (11:59pm AoE)</b>. The notifications will be sent by <b>November 16</b>. Please feel free to send us an email if you have any questions.
+                </div>
+            </div>
+        </section>
+    -->
+
+    <!-- Organizers Section -->
+    <section id="organizers" class="content-section text-center">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2>Organization</h2>
+                <br />
+                <h3>Workshop organizers</h3>
+                <ul class="list-group">
+                    <li class="list-group-item organizer">Borja Balle (DeepMind)</li>
+                    <li class="list-group-item organizer">Giovanni Cherubin (Alan Turing Institute)</li>
+                    <li class="list-group-item organizer">Kamalika Chaudhuri (UC San Diego and Facebook AI Research)</li>
+                    <li class="list-group-item organizer">Antti Honkela (University of Helsinki)</li>
+                    <li class="list-group-item organizer">Jonathan Lebensold (Mila and McGill University)</li>
+                    <li class="list-group-item organizer">Casey Meehan (UC San Diego)</li>
+                    <li class="list-group-item organizer">Mijung Park (University of British Columbia)</li>
+                    <li class="list-group-item organizer">Yu-Xiang Wang (UC Santa Barbara)</li>
+                    <li class="list-group-item organizer">Adrian Weller (Alan Turing Institute & Cambridge University)</li>
+                    <li class="list-group-item organizer">Yuqing Zhu (UC Santa Barbara)</li>
+                </ul>
+                <br />
+                <h3>Program Committee</h3>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container text-center">
+            <p>Sponsored by</p>
+        </div>
+    </footer>
+
+    <!-- jQuery -->
+    <script src="js/jquery.min.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+
+    <!-- Theme JavaScript -->
+    <script src="js/script.js"></script>
+
+</body>
+
+</html>
